@@ -1,0 +1,1 @@
+Java desktop application for product sales management, inspired by Microsoft's Neptuno database. The project focuses on developing a user interface using Java Swing components and connecting to a provided database.
